@@ -18,4 +18,9 @@ ResponsiveCursorEditableText(
     focusNode: FocusNode(),
     style: Theme.of(context).textTheme.body1,
 );
+
+ResponsiveCursorTextField(
+    cursorColor: Colors.lightBlue,
+    style: Theme.of(context).textTheme.body1,
+);
 ```

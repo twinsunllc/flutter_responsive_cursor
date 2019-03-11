@@ -1,6 +1,6 @@
 name: flutter_responsive_cursor
 description: Editable text widget with native-like cursor behavior
-version: 0.0.2
+version: 0.0.3
 authors:
 - Twin Sun, LLC <admin@twinsunsolutions.com>
 - Jami Couch <jami.couch@twinsunsolutions.com>
